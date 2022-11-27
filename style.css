@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    transition: color 1s,filter 1s, fill 1s;
   }
 
   html {
@@ -420,14 +421,16 @@
 
   }
 
- 
+
 }
+
 @media only screen and (max-width:1170px) and (min-width:470px) {
   * {
 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    transition: color 1s,filter 1s, fill 1s;
   }
 
   html {
@@ -1006,6 +1009,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    transition: color 1s,filter 1s, fill 1s;
   }
 
   html {
@@ -1317,7 +1321,7 @@
     line-height: 2.5rem;
   }
 
- 
+
 
   .second_section .page_right>div {
     position: relative;
@@ -1556,7 +1560,7 @@
     margin-left: 0.5rem;
   }
 
- 
+
 
   .mobile_orange {
     margin-left: 1rem;
