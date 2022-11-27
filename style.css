@@ -327,17 +327,14 @@
     display: inline-block;
   }
 
-  .social_media svg {
+  .social_media svg {cursor: pointer;
+
 
     margin-top: 8.0rem;
     margin-left: 0.3rem;
   }
 
-  .social_media svg path:hover {
-    cursor: pointer;
-    fill: hsl(12, 88%, 59%);
-  }
-
+ 
   .footer_left {
     margin-left: 8rem;
     margin-top: 5rem;
@@ -843,15 +840,13 @@
   }
 
   .social_media svg {
-
+cursor: pointer;
 
     margin-left: 4.0rem;
   }
 
-  .social_media svg path:hover {
-    cursor: pointer;
-    fill: hsl(12, 88%, 59%);
-  }
+ 
+  
 
   .footer_left {
 
@@ -1423,16 +1418,13 @@
     display: block;
   }
 
-  .social_media svg {
+  .social_media svg {cursor: pointer;
 
 
     margin-left: 4.0rem;
   }
 
-  .social_media svg path:hover {
-    cursor: pointer;
-    fill: hsl(12, 88%, 59%);
-  }
+ 
 
   .footer_left {
 

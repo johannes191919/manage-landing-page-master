@@ -98,3 +98,17 @@ $(".close_button").click(function () {
     $(".mobile_orange").css("background-color","rgba(255, 240, 235, 255)")
 })
 
+
+
+ function changecolor(target){
+    var target_color=  $( target).children("path")
+   $(target_color).css("fill","hsl(12, 88%, 59%)")
+
+};
+
+
+function changebackcolor(target){
+    var target_color=  $( target).children("path")
+   $(target_color).css("fill","#FFF")
+
+};
