@@ -36,7 +36,7 @@
     color: hsl(228, 39%, 23%);
   }
 
-  h5 {
+  h4 {
     color: hsl(228, 39%, 23%);
     position: relative;
     top: -2.5rem;
@@ -85,7 +85,7 @@
     background-color: hsl(0, 0%, 98%);
     padding: 2rem;
     color: #FFF;
-    height: 11.875rem;
+    height: 12.875rem;
 
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -466,7 +466,7 @@
     color: hsl(228, 39%, 23%);
   }
 
-  h5 {
+  h4 {
     color: hsl(228, 39%, 23%);
     position: relative;
     top: -2.5rem;
@@ -1043,7 +1043,7 @@ cursor: pointer;
     color: hsl(228, 39%, 23%);
   }
 
-  h5 {
+  h4 {
     color: hsl(228, 39%, 23%);
     position: relative;
     top: -2.5rem;
