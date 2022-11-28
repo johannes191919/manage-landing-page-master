@@ -62,12 +62,14 @@
   }
 
   button {
-    font-size: 1.0rem;
+    font-size: 0.8rem;
 
+
+    box-shadow: 0px 6px 10px -3px hsl(12deg 88% 59%);
     cursor: pointer;
     border: none;
     background-color: hsl(12, 88%, 59%);
-    color: white;
+    color:  hsl(0, 0%, 98%);
     padding: 0.8rem;
     padding-left: 1.5rem;
     border-radius: 20px;
@@ -107,7 +109,7 @@
 
   .owl-carousel .owl-item p {
     color: hsl(227, 12%, 61%);
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     position: relative;
     top: -1.3125rem;
     line-height: 1.5rem;
@@ -263,9 +265,9 @@
   .center {
 
     position: relative;
-    width: 8.26rem;
-    z-index: 2;
 
+    z-index: 2;
+    width: 113.46px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 4.0rem;
@@ -276,13 +278,13 @@
     background-color: hsl(12, 88%, 59%);
     position: relative;
 
-    height: 15.625rem;
+    height: 14.625rem;
   }
 
   .last_page p {
     margin-left: 10rem;
-    margin-top: 4.6625rem;
-    font-weight: 500;
+    margin-top: 3.6625rem;
+    font-weight: 600;
     font-size: 2.5rem;
     color: white;
     display: inline-block;
@@ -299,7 +301,7 @@
   #last_page_button {
     position: absolute;
     right: 10rem;
-    top: 6.5125rem;
+    top: 5.5125rem;
     background-color: white;
     display: inline-block;
     color: hsl(12, 88%, 59%);
@@ -307,7 +309,7 @@
 
 
   footer {
-    height: 21.25rem;
+    height: 18.50rem;
     background-color: hsl(233, 12%, 13%);
     position: relative;
   }
@@ -337,11 +339,11 @@
  
   .footer_left {
     margin-left: 8rem;
-    margin-top: 5rem;
+    margin-top: 3rem;
   }
 
   .footer_middle {
-    margin-top: 5.0rem;
+    margin-top: 3.0rem;
 
     width: fit-content;
     margin-left: auto;
@@ -363,7 +365,7 @@
   .footer_right {
     display: inline-block;
     right: 14rem;
-    top: 5rem;
+    top: 3rem;
     color: hsl(227, 12%, 61%);
     ;
   }
