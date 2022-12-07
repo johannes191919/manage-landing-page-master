@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    transition: color 1s, filter 1s, fill 1s;
+    transition: color 0.5s, filter 0.5s, fill 0.5s;
   }
 
   html {
@@ -270,7 +270,7 @@
     position: relative;
 
     z-index: 2;
-    width: 126.26px;
+    width: 130.26px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 4.0rem;
@@ -316,14 +316,15 @@
 
 
   footer {
-    height: 18.50rem;
+    height: 16.50rem;
     background-color: hsl(233, 12%, 13%);
     position: relative;
   }
 
   footer li {
     color: #FFF;
-    line-height: 2.5rem;
+    line-height: 2.3rem;
+    font-size: 14px;
     cursor: pointer;
   }
 
@@ -340,7 +341,7 @@
     cursor: pointer;
 
 
-    margin-top: 8.0rem;
+    margin-top: 6.0rem;
     margin-left: 0.3rem;
   }
 
@@ -412,7 +413,7 @@
     width: 15.9375rem;
     margin-left: 1rem;
     font-size: 0.9rem;
-    top: 10rem;
+    top: 8rem;
 
   }
 
